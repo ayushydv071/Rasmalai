@@ -1,4 +1,3 @@
-# ❤️ Crush Proposal Website
 
 > "Some feelings are too special to be spoken in a single moment, so I turned them into a website."
 
@@ -34,4 +33,12 @@ Made with ❤️, courage, and a little bit of hope.
 
 ## How to run
 1. Install Live server extension on vs code
-2. 
+2. Now Go to index.html
+3. Right Click on mouse and click on open with live server
+4. Now kindly accept my proposal
+ okay
+ okay 
+ okay
+ okay
+ okeiii
+ ok
